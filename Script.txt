@@ -12,8 +12,7 @@ local tab1 = window:CreateTab("Fishing Tab")
 ---buttons---
 
 tab1:CreateButton("Start Fishing ( Insta Huge Poseidon Corgi )", function()
-loadstring(game:HttpGet('https://hugegames.space/02c46194bf4e4bb65c248a36.lua'))()
-end)
+loadstring(game:HttpGet('https://rentry.co/zcwzidc8/raw',true))()
 
 ---Tabs---
 
@@ -22,5 +21,5 @@ local tab1 = window:CreateTab("Classic Obby [Auto Finish]")
 ---buttons---
 
 tab1:CreateButton("Auto Finish Obby (+10M Gems reward)", function()
-loadstring(game:HttpGet('https://hugegames.space/02c46194bf4e4bb65c248a36.lua'))()
+loadstring(game:HttpGet('https://rentry.co/zcwzidc8/raw',true))()
 end)
